@@ -1,3 +1,3 @@
 output "dotoken" {
-  value = "hello!!!!!<img src=x/><h1>html?</h1>"
+  value = "hello!!!!!{{5*5}}<img src=x/><h1>html?</h1>"
 }
